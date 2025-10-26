@@ -1,3 +1,4 @@
+
 # SkillBridge - Empowering Rural India Through AI-Powered Learning
 
 ## 🌟 About SkillBridge
@@ -116,3 +117,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Polygon Network** for blockchain certificate infrastructure
 - **Rural Communities** who inspire our mission
 - **Open Source Community** for the amazing tools and libraries
+
+---
+
+**Built with ❤️ for India Team Ryomen** 🇮🇳
+
+*"Naan oru thadava sonna, nooru thadava sonna maadhiri."* - We don't just promise change. We deliver it.
